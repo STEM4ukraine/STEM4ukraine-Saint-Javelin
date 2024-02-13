@@ -4,6 +4,8 @@ A simple PCB with sound effects and the light show set off by pressing of the bu
 
 An ideal school STEM project demonstrating use of GPIO for detecting button presses with software debouncing, charlieplexxing of multiple LEDs and playing music on the Piezo speaker.
 
+The STEM4ukraine-Saint-Javelin-v1.ino firmware is written in the Arduino IDE and requires the Microcore attiny13 library, uses the 1.2MHz internal oscillator, with EEPROM retained and no bootloader. Feel free to modify it!
+
 Celebrate Saint Javelin while you play the Ukrainian national anthem on the built in speaker!
 
 The front of the PCB
