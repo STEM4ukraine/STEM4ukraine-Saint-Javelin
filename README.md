@@ -29,6 +29,5 @@ Bill of materials:
 - SW1: momentary switch
 - PIEZO:  piezo speaker
 - USB1:  180 degree vertical through hole type B USB socket
-- EXTSW, EXT5V:  optional 2.5mm headers for external wiring for power and switch
-
-- 2.5mm header (optional)
+- EXTSW:  optional 2.5mm header for external wiring for switch
+- EXT5V:  optional 2.5mm header for external wiring for 5V power
