@@ -20,12 +20,15 @@ The schematic
 
 Bill of materials:
 
-U1:  attiny13
-C1:  100nF
-R1,R2,R3:  220R
-R4:  10k
-R5:  47k
-LED1-7:   yellow 3mm LED
-SW1: momentary switch
-PIEZO:  piezo speaker
-USB1:  180 degree vertical through hole type B USB socket
+- U1:  attiny13
+- C1:  100nF
+- R1,R2,R3:  220R
+- R4:  10k
+- R5:  47k
+- LED1-7:  yellow 3mm LED
+- SW1: momentary switch
+- PIEZO:  piezo speaker
+- USB1:  180 degree vertical through hole type B USB socket
+- EXTSW, EXT5V:  optional 2.5mm headers for external wiring for power and switch
+
+- 2.5mm header (optional)
