@@ -13,3 +13,7 @@ The front of the PCB
 The rear of the prototype PCB
 
 ![prototype back](images/SaintJavelinReverse.jpg)
+
+The schematic
+
+![Schematic](images/STEM4ukraine-Saint-Javelin.svg)
